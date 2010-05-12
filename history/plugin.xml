@@ -1,0 +1,13 @@
+<!-- Define your plugins -->
+<plugin>
+    <name>History Plugin</name>
+    <version>0.1</version>
+    <author>Alex</author>
+    <homePage></homePage>
+    <email>aillusions@gmail.com</email>
+    <description>History Plugin</description>
+    <class>org.aillusions.HistoryLogger</class>
+    <minSparkVersion>2.5.0</minSparkVersion>
+    <os>Windows,Mac,Linux</os>
+</plugin>
+
